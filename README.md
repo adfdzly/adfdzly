@@ -2,7 +2,7 @@
 - 👀 I’m pasionate in coding
 - 🌱 I’m currently learning at Universiti Teknologi MARA (UiTM) 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mafadzly@gmail.com
 
 <!---
 adfdzly/adfdzly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
