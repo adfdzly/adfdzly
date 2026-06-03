@@ -26,10 +26,3 @@ I'm a final year Computer Science student specializing in Big Data, with hands-o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
 
 
-## Badges
-
-**My GitHub Stats**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adfdzly&show_icons=true&theme=dark)](https://github.com/adfdzly)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adfdzly&layout=compact&theme=dark)](https://github.com/adfdzly)
