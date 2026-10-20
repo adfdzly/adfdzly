@@ -1,6 +1,6 @@
 # Hi 👋 My name is Muhammad Adrie Fadzly
 
-## Backend Developer | Data Science | Big Data
+## Full Stack Developer | Data Science | Big Data
 
 ---
 
