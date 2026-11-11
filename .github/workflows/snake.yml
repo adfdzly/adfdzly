@@ -1,0 +1,30 @@
+name: Fox snake
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # midnight in Malaysia
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/aefox-snake.svg?color_snake=#e8762b&color_dots=#ebedf0,#d9c8f5,#b394ea,#8a5fd8,#5a32a0
+            dist/aefox-snake-dark.svg?color_snake=#e8762b&color_dots=#161b22,#2c1856,#4b2a85,#7a4bc2,#c79bff
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
