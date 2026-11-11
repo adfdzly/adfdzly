@@ -71,17 +71,17 @@ aefox:
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" alt="Languages"><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,vite,threejs&theme=dark" alt="Frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,cloudflare,githubactions,git&theme=dark" alt="Data and infrastructure">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,php&theme=dark" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,mysql,redis&theme=dark" alt="Frameworks and data"><br>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,git,github&theme=dark" alt="Infrastructure and tools">
 </p>
 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LLMs-OpenRouter%20%7C%20LiteLLM-5a32a0?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 🌙 Night shift
 
