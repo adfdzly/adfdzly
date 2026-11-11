@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20to-backend%20%26%20AI%20roles-26134a?style=flat-square" alt="Open to backend and AI roles">
 </p>
 
-### Hi, I'm Adrie, also known as `aefox` 🦊
+### Hi, I'm Adrie 🦊
 
 I'm a final-year Computer Science student specialising in Big Data. I build backend systems,
 AI agents and the infrastructure they run on, and I ship them to production. I like work
