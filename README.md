@@ -35,19 +35,22 @@ aefox:
       <br><sub>~45k lines · ~790 tests · USD 5/month model budget · in production</sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/adfdzly/ml-batch-fermentation">ML Batch Fermentation</a></h4>
-      Predicts and optimises batch fermentation performance from open bio-manufacturing data.
-      Compares regression models with honest validation on unseen studies.
+      <h4><a href="https://github.com/adfdzly/PricePulse-showcase">PricePulse</a></h4>
+      Tracks phone and tablet prices across Malaysian e-commerce platforms every week and
+      predicts whether each price will go up, down or stay stable next week.
       <br><br>
-      <code>Python</code> <code>scikit-learn</code> <code>pandas</code>
-      <br><sub>Up to R² = 0.91 on product titer</sub>
+      <code>Django</code> <code>Celery</code> <code>MySQL</code> <code>Random Forest</code> <code>React Native</code>
+      <br><sub>Live demo on synthetic data</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/adfdzly/number-generator">Number Generator</a></h4>
-      Tkinter desktop and Flask web app with <code>secrets</code>-based randomness, deployed with
-      Docker and nginx behind Cloudflare Tunnel, with private links and bot blocking.
+      <h4><a href="https://github.com/adfdzly/aeskafilm-showcase">AeskaFilm</a></h4>
+      A disposable camera on every table: guests scan a QR code and shoot from their phone's
+      browser, and the photos develop into a scrapbook book for the couple or graduate.
+      <br><br>
+      <code>Next.js</code> <code>Cloudflare Workers</code> <code>Neon Postgres</code> <code>R2</code>
+      <br><sub>A commercial product of AESKA Lab Solution</sub>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/adfdzly/Employee-Leave-Management-System">LeaveSecure</a></h4>
