@@ -1,22 +1,24 @@
 <p align="center">
-  <img src="assets/aefox-banner.svg" alt="aefox: Muhammad Adrie Fadzly, backend and AI engineer" width="100%">
+  <img src="assets/aefox-banner.svg" alt="aefox: Muhammad Adrie Fadzly, full stack developer intern" width="100%">
 </p>
 
 <p align="center">
   <a href="mailto:mafadzly@gmail.com"><img src="https://img.shields.io/badge/Email-mafadzly%40gmail.com-e8762b?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based%20in-Malaysia-5a32a0?style=flat-square" alt="Based in Malaysia">
-  <img src="https://img.shields.io/badge/Open%20to-backend%20%26%20AI%20roles-26134a?style=flat-square" alt="Open to backend and AI roles">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer%20Intern-26134a?style=flat-square" alt="Full Stack Developer Intern">
 </p>
 
 ### Hi, I'm Adrie 🦊
 
-I'm a final-year Computer Science student specialising in Big Data. I build backend systems,
-AI agents and the infrastructure they run on, and I ship them to production. I like work
+I'm a **Full Stack Developer Intern** and a final-year Computer Science student specialising
+in Big Data. I build web apps end to end, from the database and API to the interface, plus AI
+agents and the infrastructure they run on, and I ship them to production. I like work
 where the code enforces the rules and the AI provides the judgement.
 
 ```yaml
 aefox:
-  focus:     [backend engineering, AI agents, data pipelines]
+  role:      full stack developer intern
+  focus:     [full stack web apps, AI agents, data pipelines]
   currently: running a self-learning social media agent in production
   learning:  [ML on my own data, LLM evaluation, self-hosted infra]
   values:    [fail closed, measure everything, keep it simple]

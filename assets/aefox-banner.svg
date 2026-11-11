@@ -8,7 +8,7 @@
 <radialGradient id="lamp"><stop offset="0" stop-color="#ffb347" stop-opacity=".55"/>
 <stop offset="1" stop-color="#ffb347" stop-opacity="0"/></radialGradient>
 <clipPath id="type"><rect x="60" y="138" height="40" width="0">
-<animate attributeName="width" values="0;0;420;420;0" keyTimes="0;.08;.45;.92;1" dur="7s" repeatCount="indefinite"/>
+<animate attributeName="width" values="0;0;508;508;0" keyTimes="0;.08;.45;.92;1" dur="7s" repeatCount="indefinite"/>
 </rect></clipPath>
 </defs>
 <rect width="1200" height="300" rx="18" fill="url(#sky)" shape-rendering="geometricPrecision"/>
@@ -319,7 +319,7 @@
 <animate attributeName="opacity" values="0;1" dur=".36s" calcMode="discrete" repeatCount="indefinite"/></g></g>
 <g shape-rendering="geometricPrecision">
 <text x="60" y="92" fill="#ffffff" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="44" font-weight="700" letter-spacing=".5">Muhammad Adrie Fadzly</text>
-<g clip-path="url(#type)"><text x="60" y="166" fill="#c79bff" font-family="Consolas,'Courier New',monospace" font-size="24" font-weight="700">&gt; aefox · backend &amp; AI engineer</text></g>
-<rect x="60" y="146" width="12" height="24" fill="#e8762b"><animate attributeName="x" values="60;60;476;476;60" keyTimes="0;.08;.45;.92;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<g clip-path="url(#type)"><text x="60" y="166" fill="#c79bff" font-family="Consolas,'Courier New',monospace" font-size="24" font-weight="700">&gt; aefox · full stack developer intern</text></g>
+<rect x="60" y="146" width="12" height="24" fill="#e8762b"><animate attributeName="x" values="60;60;572;572;60" keyTimes="0;.08;.45;.92;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <text x="62" y="122" fill="#b9a8d9" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="17">Malaysia · building systems after dark</text>
 </g></g></svg>
